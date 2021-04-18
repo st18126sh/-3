@@ -4,6 +4,7 @@ while i <= 100 do
         i = i + 1
     else
         print i
+        printf ","
         i = i + 1
     end
     
